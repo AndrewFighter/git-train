@@ -1,2 +1,3 @@
-console.log('docker');
+
 console.log('Redis');
+console.log("RABBITMQ");
